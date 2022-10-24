@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mubarakmayyeri
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python, Machine Learning Algorithms, Data Visualization tools etc
+- 🌱 I’m currently learning Python, Django, Machine Learning Algorithms, Data Visualization tools etc
 - 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 Connect me on LinkedIN - https://www.linkedin.com/in/mubarakmayyeri
 
