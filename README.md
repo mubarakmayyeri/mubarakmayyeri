@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mubarakmayyeri
 - 👀 I’m interested in Data Science, Python and Web Developement.
-- 🌱 I’m currently learning Data Science concepts like Machine Learning, Deep Learning and Data Visualization tools.
+- 🌱 I’m currently working as AI and Backend developer as a Freelancer.
 - 💞️ I’m looking to collaborate on projects in data science and web developement domains.
 - 📫 Connect me on LinkedIN - https://www.linkedin.com/in/mubarakmayyeri
 
